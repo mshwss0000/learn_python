@@ -2,7 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+.idea/
+flask/
 # C extensions
 *.so
 
@@ -41,6 +42,7 @@ htmlcov/
 .coverage
 .coverage.*
 .cache
+
 nosetests.xml
 coverage.xml
 *.cover
@@ -49,6 +51,7 @@ coverage.xml
 # Translations
 *.mo
 *.pot
+
 
 # Django stuff:
 *.log
